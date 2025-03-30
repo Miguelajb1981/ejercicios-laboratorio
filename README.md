@@ -1,4 +1,5 @@
 # ejercicios-laboratorio
+Pruebas 
 
-
-##pruebas de como utilizar el repositorio
+## descripcion
+Este es un repositorio para realizar ejercicios de Laboratorio
